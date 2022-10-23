@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4d35b2f-7b7b-4227-8d4c-77408ab78991" name="Changes" comment="Day 18 - OOP - The Hirst Painting">
-      <change afterPath="$PROJECT_DIR$/Day 19/Etch  a Sketch/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 19/Turtle Race/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 19/main.py" afterDir="false" />
+    <list default="true" id="f4d35b2f-7b7b-4227-8d4c-77408ab78991" name="Changes" comment="Day 19 - OOP - Turtle Race">
+      <change afterPath="$PROJECT_DIR$/Day 20/Snake Game - Part 1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 20/Snake Game - Part 1/snake.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +60,7 @@
       <recent name="C:\Users\User\Desktop\Files\Day 12\Number Guessing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (6)">
+  <component name="RunManager" selected="Python.main (2)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Files" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Files" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 18" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 20/Snake Game - Part 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 18/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 20/Snake Game - Part 1/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (6)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main (5)" />
         <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666464419132</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Day 19 - OOP - Turtle Race">
+      <created>1666480375423</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666480375423</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -283,6 +289,7 @@
     <MESSAGE value="Day 16 - OOP - Coffee Machine" />
     <MESSAGE value="Day 17 - OOP - Quiz Brain" />
     <MESSAGE value="Day 18 - OOP - The Hirst Painting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 18 - OOP - The Hirst Painting" />
+    <MESSAGE value="Day 19 - OOP - Turtle Race" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 19 - OOP - Turtle Race" />
   </component>
 </project>
