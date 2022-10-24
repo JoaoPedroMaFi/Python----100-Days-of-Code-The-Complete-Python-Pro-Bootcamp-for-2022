@@ -1,56 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4d35b2f-7b7b-4227-8d4c-77408ab78991" name="Changes" comment="Day 22 - OOP - Pong Game - Complete">
-      <change afterPath="$PROJECT_DIR$/Day 23/car_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 23/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 23/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 23/scoreboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Files.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Files.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 10/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 11/Blackjack/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 11/Blackjack/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 11/Blackjack/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 11/Blackjack/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Number Guessing/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 12/Number Guessing/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 13/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 13/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 14/Higher_Lower/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 14/Higher_Lower/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 14/Higher_Lower/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 14/Higher_Lower/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 15/Coffee Machine/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 15/Coffee Machine/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 16/OOP_Coffee_Machine_start/coffee_maker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 16/OOP_Coffee_Machine_start/coffee_maker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 16/OOP_Coffee_Machine_start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 16/OOP_Coffee_Machine_start/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 16/OOP_Coffee_Machine_start/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 16/OOP_Coffee_Machine_start/menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 16/OOP_Coffee_Machine_start/money_machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 16/OOP_Coffee_Machine_start/money_machine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 16/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 16/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 17/Quizz Game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 17/Quizz Game/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 17/Quizz Game/question_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 17/Quizz Game/question_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 17/Quizz Game/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 17/Quizz Game/quiz_brain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 17/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 17/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 19/Turtle Race/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 19/Turtle Race/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 20/Snake Game - Part 1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 20/Snake Game - Part 1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 20/Snake Game - Part 1/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 20/Snake Game - Part 1/snake.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 21/Snake Game - Complete/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 21/Snake Game - Complete/food.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 21/Snake Game - Complete/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 21/Snake Game - Complete/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 21/Snake Game - Complete/scoreboad.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 21/Snake Game - Complete/scoreboad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 21/Snake Game - Complete/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 21/Snake Game - Complete/snake.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 22/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 22/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 22/paddle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 22/paddle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 22/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 22/scoreboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/my_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/my_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 6/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 6/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7/hangman_art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/hangman_art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7/hangman_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/hangman_words.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/Caesar Cipher/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/Caesar Cipher/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/Auction/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 9/Auction/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/Auction/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 9/Auction/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 9/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="f4d35b2f-7b7b-4227-8d4c-77408ab78991" name="Changes" comment="Day 23 - OOP - Turtle Race - Complete" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -344,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666637799243</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Day 23 - OOP - Turtle Race - Complete">
+      <created>1666652356269</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666652356269</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -369,6 +327,7 @@
     <MESSAGE value="Day 21 - OOP - Snake Game - Part 2" />
     <MESSAGE value="Day 21 - OOP - Snake Game - Complete" />
     <MESSAGE value="Day 22 - OOP - Pong Game - Complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 22 - OOP - Pong Game - Complete" />
+    <MESSAGE value="Day 23 - OOP - Turtle Race - Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 23 - OOP - Turtle Race - Complete" />
   </component>
 </project>
