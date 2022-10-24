@@ -79,38 +79,22 @@
 #
 # print(f"You have {total_days} days, {total_weeks} weeks, and {total_months} months left.")
 
-#If the bill was $150.00, split between 5 people, with 12% tip.
+# If the bill was $150.00, split between 5 people, with 12% tip.
 
-#Each person should pay (150.00 / 5) * 1.12 = 33.6
-#Format the result to 2 decimal places = 33.60
+# Each person should pay (150.00 / 5) * 1.12 = 33.6
+# Format the result to 2 decimal places = 33.60
 
-#Tip: There are 2 ways to round a number. You might have to do some Googling to solve this.💪
+# Tip: There are 2 ways to round a number. You might have to do some Googling to solve this.💪
 
-#Write your code below this line 👇
+# Write your code below this line 👇
 
 print("Welcome to the tip calculator. ")
 bill = input("What was the total bill? ")
 percentage = input("What the percentage tip would youi like to give? 10, 12, or 15 ")
 people = input("How many people to split the bill? ")
 
-total_percentage = 1.0 + (float(percentage) /100)
+total_percentage = 1.0 + (float(percentage) / 100)
 total = float(bill) * total_percentage
 per_people = round(float(total) / float(people), 2)
 
 print(f"Each person should pay: {per_people}")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

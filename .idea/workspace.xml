@@ -1,12 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4d35b2f-7b7b-4227-8d4c-77408ab78991" name="Changes" comment="Day 21 - OOP - Snake Game - Complete">
-      <change afterPath="$PROJECT_DIR$/Day 22/ball.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 22/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 22/paddle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 22/scoreboard.py" afterDir="false" />
+    <list default="true" id="f4d35b2f-7b7b-4227-8d4c-77408ab78991" name="Changes" comment="Day 22 - OOP - Pong Game - Complete">
+      <change afterPath="$PROJECT_DIR$/Day 23/car_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 23/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 23/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 23/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Files.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Files.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 10/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/Blackjack/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 11/Blackjack/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/Blackjack/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 11/Blackjack/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Number Guessing/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 12/Number Guessing/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 13/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 13/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 14/Higher_Lower/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 14/Higher_Lower/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 14/Higher_Lower/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 14/Higher_Lower/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 15/Coffee Machine/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 15/Coffee Machine/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 16/OOP_Coffee_Machine_start/coffee_maker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 16/OOP_Coffee_Machine_start/coffee_maker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 16/OOP_Coffee_Machine_start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 16/OOP_Coffee_Machine_start/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 16/OOP_Coffee_Machine_start/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 16/OOP_Coffee_Machine_start/menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 16/OOP_Coffee_Machine_start/money_machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 16/OOP_Coffee_Machine_start/money_machine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 16/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 16/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 17/Quizz Game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 17/Quizz Game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 17/Quizz Game/question_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 17/Quizz Game/question_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 17/Quizz Game/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 17/Quizz Game/quiz_brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 17/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 17/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 19/Turtle Race/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 19/Turtle Race/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 20/Snake Game - Part 1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 20/Snake Game - Part 1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 20/Snake Game - Part 1/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 20/Snake Game - Part 1/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 21/Snake Game - Complete/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 21/Snake Game - Complete/food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 21/Snake Game - Complete/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 21/Snake Game - Complete/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 21/Snake Game - Complete/scoreboad.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 21/Snake Game - Complete/scoreboad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 21/Snake Game - Complete/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 21/Snake Game - Complete/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 22/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 22/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 22/paddle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 22/paddle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 22/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 22/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/my_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/my_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 6/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 6/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 7/hangman_art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/hangman_art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 7/hangman_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/hangman_words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 7/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 8/Caesar Cipher/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 8/Caesar Cipher/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 9/Auction/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 9/Auction/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 9/Auction/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 9/Auction/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 9/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 9/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,23 +80,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Files/Day 21&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/User/Desktop/Files/Day 23",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;Python&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Files\Day 23" />
       <recent name="C:\Users\User\Desktop\Files\Day 21" />
       <recent name="C:\Users\User\Desktop\Files\Day 9\Auction" />
       <recent name="C:\Users\User\Desktop\Files\Day 2" />
@@ -63,8 +107,8 @@
       <recent name="C:\Users\User\Desktop\Files\Day 12\Number Guessing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (4)">
-    <configuration name="food" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (6)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Files" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,32 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 21/Snake Game - Complete" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp/Rar$DRa20104.25825" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 21/Snake Game - Complete/food.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Files" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 20/Snake Game - Part 1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 20/Snake Game - Part 1/main.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/Rar$DRa20104.25825/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,6 +171,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp/Rar$DRa9052.40164" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/Rar$DRa9052.40164/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main (6)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Files" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,11 +200,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 19/Turtle Race" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 23" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 19/Turtle Race/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 23/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,11 +257,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (6)" />
+        <item itemvalue="Python.main (5)" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.food" />
-        <item itemvalue="Python.main (6)" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666563245118</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Day 22 - OOP - Pong Game - Complete">
+      <created>1666637799243</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666637799243</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,6 +368,7 @@
     <MESSAGE value="Day 20 - OOP - Snake Game - Part 1" />
     <MESSAGE value="Day 21 - OOP - Snake Game - Part 2" />
     <MESSAGE value="Day 21 - OOP - Snake Game - Complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 21 - OOP - Snake Game - Complete" />
+    <MESSAGE value="Day 22 - OOP - Pong Game - Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 22 - OOP - Pong Game - Complete" />
   </component>
 </project>

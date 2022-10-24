@@ -28,4 +28,5 @@ while not bidding_finished:
         find_highest_bidder(bids)
     elif should_continue == "yes":
         import os
+
         os.system('cls||clear')

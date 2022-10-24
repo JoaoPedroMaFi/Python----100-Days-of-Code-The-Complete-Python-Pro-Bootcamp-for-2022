@@ -26,4 +26,3 @@ class QuizBrain:
     def quiz_report(self):
         print("You've completed the quiz!!!")
         print(f"Your final score was: {self.score}/{len(self.question_list)}")
-

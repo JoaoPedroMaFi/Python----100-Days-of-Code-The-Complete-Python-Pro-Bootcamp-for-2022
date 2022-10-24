@@ -10,6 +10,7 @@ class User:
         user.followers += 1
         self.following += 1
 
+
 # user_1 = User()
 #
 # user_1.id = "001"

@@ -11,9 +11,8 @@ str_colors = ""
 for color in colors:
     str_colors += color + "\n"
 
-messagebox.showinfo(title="All colors available!",message=str_colors)
+messagebox.showinfo(title="All colors available!", message=str_colors)
 user_bet = screen.textinput(title="Make Your Bet!", prompt="Which turtle will win the race? Enter a color:  ").lower()
-
 
 all_turtles = []
 high = -70
@@ -37,7 +36,5 @@ while is_race_on:
             else:
                 messagebox.showinfo("You lose!", f"The winner is {turtle.pencolor()}")
             is_race_on = False
-
-
 
 screen.exitonclick()

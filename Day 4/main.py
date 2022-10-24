@@ -1,4 +1,5 @@
 import random
+
 # import my_module
 #
 # random_intenger = random.randint(1,10)
@@ -116,12 +117,12 @@ scissors = '''
 ---.__(___)
 '''
 
-#Write your code below this line 👇
+# Write your code below this line 👇
 
 man_choice = int(input("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors. "))
 pc_choice = random.randint(0, 2)
 
-if man_choice >=3 or man_choice <0:
+if man_choice >= 3 or man_choice < 0:
     print("You typed an invalid number, you lose!")
 else:
     print("Your choice")
@@ -158,4 +159,3 @@ else:
         print("You loose")
     else:
         print("It's a Draw")
-
