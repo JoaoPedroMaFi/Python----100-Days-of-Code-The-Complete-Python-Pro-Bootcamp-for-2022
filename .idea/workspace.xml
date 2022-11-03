@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4d35b2f-7b7b-4227-8d4c-77408ab78991" name="Changes" comment="Day 25 - US State Game">
-      <change afterPath="$PROJECT_DIR$/Day 26/NATO-alphabet-start/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 26/NATO-alphabet-start/nato_phonetic_alphabet.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 26/US States Game/50_states.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 26/US States Game/Missing_states.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 26/US States Game/blank_states_img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 26/US States Game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 26/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 26/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 26/main.py" afterDir="false" />
+    <list default="true" id="f4d35b2f-7b7b-4227-8d4c-77408ab78991" name="Changes" comment="Day 26 - List and dictionary comprehension">
+      <change afterPath="$PROJECT_DIR$/Day 27/Mile to Kilo converter/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 27/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 27/playground.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 25/US States Game/Missing_states.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Day 25/US States Game/Missing_states.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +47,7 @@
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "CommandLine",
       "Python"
     ]
   }
@@ -71,7 +65,7 @@
       <recent name="C:\Users\User\Desktop\Files\Day 12\Number Guessing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (4)">
+  <component name="RunManager">
     <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Files" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -322,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666817167224</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Day 26 - List and dictionary comprehension">
+      <created>1666916701012</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666916701012</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -349,6 +350,7 @@
     <MESSAGE value="Day 22 - OOP - Pong Game - Complete" />
     <MESSAGE value="Day 23 - OOP - Turtle Race - Complete" />
     <MESSAGE value="Day 25 - US State Game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 25 - US State Game" />
+    <MESSAGE value="Day 26 - List and dictionary comprehension" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 26 - List and dictionary comprehension" />
   </component>
 </project>
