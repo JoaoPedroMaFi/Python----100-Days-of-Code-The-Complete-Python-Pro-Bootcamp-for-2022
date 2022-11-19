@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4d35b2f-7b7b-4227-8d4c-77408ab78991" name="Changes" comment="Day 31 - Flash Card Game">
-      <change afterPath="$PROJECT_DIR$/Day 33/ISS Overhead Notifier/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 33/ISS Overhead Notifier/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 33/Kanye Quotes App/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 33/Kanye Quotes App/kanye.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 33/Kanye Quotes App/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 33/main.py" afterDir="false" />
+    <list default="true" id="f4d35b2f-7b7b-4227-8d4c-77408ab78991" name="Changes" comment="Day 33 - API Practice">
+      <change afterPath="$PROJECT_DIR$/Day 34/Quizzler App/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 34/Quizzler App/images/false.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 34/Quizzler App/images/true.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 34/Quizzler App/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 34/Quizzler App/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 34/Quizzler App/quiz_brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 34/Quizzler App/ui.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 32/Birthday Wisher (Day 32) start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 32/Birthday Wisher/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 32/Birthday Wisher (Day 32) start/quotes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 32/Birthday Wisher/quotes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/User/Desktop/Files/Day 33/ISS Overhead Notifier",
+    "last_opened_file_path": "C:/Users/User/Desktop/Files/Day 34/Quizzler App",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "editor.preferences.completion"
   },
@@ -62,11 +61,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Files\Day 34\Quizzler App" />
       <recent name="C:\Users\User\Desktop\Files\Day 33\ISS Overhead Notifier" />
       <recent name="C:\Users\User\Desktop\Files\Day 33\Kanye Quotes App" />
       <recent name="C:\Users\User\Desktop\Files\Day 32\Automated Birthday Wisher" />
       <recent name="C:\Users\User\Desktop\Files\Day 32" />
-      <recent name="C:\Users\User\Desktop\Files\Day 31\Flashy Card App" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\Desktop\Files\Day 15\Coffee Machine" />
@@ -80,8 +79,8 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (3)">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (2)">
+    <configuration name="data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Files" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +88,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 28" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 34/Quizzler App" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 28/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 34/Quizzler App/data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 34/Quizzler App" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 34/Quizzler App/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,27 +135,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 33/ISS Overhead Notifier/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Files" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 26/NATO-alphabet-start" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 26/NATO-alphabet-start/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.data" />
         <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (6)" />
         <item itemvalue="Python.main (5)" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668650853858</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Day 33 - API Practice">
+      <created>1668800405507</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1668800405507</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,6 +419,7 @@
     <MESSAGE value="Day 29 - Password Manager GUI" />
     <MESSAGE value="Day 30 - Password Manager GUI- Json Data" />
     <MESSAGE value="Day 31 - Flash Card Game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 31 - Flash Card Game" />
+    <MESSAGE value="Day 33 - API Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 33 - API Practice" />
   </component>
 </project>
