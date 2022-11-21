@@ -5,7 +5,7 @@ import vonage as vonage
 
 OWM_Endpoint = "http://api.openweathermap.org/data/2.5/forecast"
 api_key = "33d4ca10fb3bf5061b878ce771916ac7"
-api_key_sms = "1745614a892bc44d52a9bc9216be961152aad995"
+api_key_sms = "NONE"
 MY_LAT = 41.490678
 MY_LONG = -8.674748
 parameters = {
@@ -50,18 +50,18 @@ print(str_report)
 
 ###################################### SEND SMS #############################
 
-client = vonage.Client(key="b961a206", secret="CL1BmwuPJdSRyFzZ")
-sms = vonage.Sms(client)
-
-responseData = sms.send_message(
-    {
-        "from": "Weather Inf",
-        "to": "351967105762",
-        "text": str_report,
-    }
-)
-
-if responseData["messages"][0]["status"] == "0":
-    print("Message sent successfully.")
-else:
-    print(f"Message failed with error: {responseData['messages'][0]['error-text']}")
+# client = vonage.Client(key="b961a206", secret="CL1BmwuPJdSRyFzZ")
+# sms = vonage.Sms(client)
+#
+# responseData = sms.send_message(
+#     {
+#         "from": "Weather Inf",
+#         "to": "351967105762",
+#         "text": str_report,
+#     }
+# )
+#
+# if responseData["messages"][0]["status"] == "0":
+#     print("Message sent successfully.")
+# else:
+#     print(f"Message failed with error: {responseData['messages'][0]['error-text']}")

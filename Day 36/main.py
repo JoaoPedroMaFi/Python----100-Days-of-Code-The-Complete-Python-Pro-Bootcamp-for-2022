@@ -75,8 +75,8 @@ if diff_percent > 1:
     print(formatted_articles)
     # Send email each article as a separate message via Twilio.
 
-    my_email = "jpmf19930617@gmail.com"
-    password = "vdinppifzjxlsfhm"
+    my_email = "NONE"
+    password = "NONE"
     with smtplib.SMTP("smtp.gmail.com") as connection:
         connection.starttls()
         connection.login(user=my_email, password=password)
