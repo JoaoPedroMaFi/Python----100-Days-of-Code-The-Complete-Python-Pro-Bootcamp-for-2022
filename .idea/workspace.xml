@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4d35b2f-7b7b-4227-8d4c-77408ab78991" name="Changes" comment="Day 38 - API Practice -">
-      <change afterPath="$PROJECT_DIR$/Day 38/main.py" afterDir="false" />
+    <list default="true" id="f4d35b2f-7b7b-4227-8d4c-77408ab78991" name="Changes" comment="Day 38 - API Practice - WORKOUT CHECKER">
+      <change afterPath="$PROJECT_DIR$/Day 39/data_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 39/flight_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 39/flight_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 39/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 39/notification_manager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,29 +41,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Files&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/User/Desktop/Files/Day 39",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;CommandLine&quot;,
-      &quot;Python&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "CommandLine",
+      "Python"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Files\Day 39" />
       <recent name="C:\Users\User\Desktop\Files\Day 36" />
       <recent name="C:\Users\User\Desktop\Files\Day 34\Quizzler App" />
       <recent name="C:\Users\User\Desktop\Files\Day 33\ISS Overhead Notifier" />
       <recent name="C:\Users\User\Desktop\Files\Day 33\Kanye Quotes App" />
-      <recent name="C:\Users\User\Desktop\Files\Day 32\Automated Birthday Wisher" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\Desktop\Files\Day 15\Coffee Machine" />
@@ -73,7 +77,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.main (4)">
     <configuration name="data" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Files" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,6 +91,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 34/Quizzler App/data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flight_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 39" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 39/flight_search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,6 +183,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 39" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 39/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Files" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,12 +249,16 @@
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.data" />
+      <item itemvalue="Python.flight_search" />
+      <item itemvalue="Python.main (4)" />
       <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.main (2)" />
       <item itemvalue="Python.main (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.flight_search" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (3)" />
@@ -392,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669081416947</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Day 38 - API Practice - WORKOUT CHECKER">
+      <created>1669851495212</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1669851495212</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -429,6 +486,7 @@
     <MESSAGE value="Day 33 - API Practice - Quiz App" />
     <MESSAGE value="Day 36 - API Practice - Stock Trading News Alert via email" />
     <MESSAGE value="Day 37 - API Practice - Http Verbs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 37 - API Practice - Http Verbs" />
+    <MESSAGE value="Day 38 - API Practice - WORKOUT CHECKER" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 38 - API Practice - WORKOUT CHECKER" />
   </component>
 </project>
