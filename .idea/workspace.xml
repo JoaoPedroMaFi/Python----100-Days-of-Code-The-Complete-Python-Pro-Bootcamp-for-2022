@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4d35b2f-7b7b-4227-8d4c-77408ab78991" name="Changes" comment="Day 40 - API Flight Mail">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 22/.idea/Day 22.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 35/.idea/Day 35.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 38/.idea/Day 38.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 39/.idea/Day 39.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 41/Web Development/HTML - Personal Site/contact_me.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 41/Web Development/HTML - Personal Site/hobbies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 41/Web Development/HTML - Personal Site/images/imagem_2023-01-11_204711506-modified.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 41/Web Development/HTML - Personal Site/index.html" afterDir="false" />
+    <list default="true" id="f4d35b2f-7b7b-4227-8d4c-77408ab78991" name="Changes" comment="Day 41 - Web Foundation">
+      <change afterPath="$PROJECT_DIR$/Day 42/Web Development/HTML - Personal Site/contact_me.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 42/Web Development/HTML - Personal Site/hobbies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 42/Web Development/HTML - Personal Site/images/imagem_2023-01-11_204711506-modified.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 42/Web Development/HTML - Personal Site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 42/Web Development/HTML - Personal Site/inputs_html.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,31 +43,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/User/Desktop/Files/Day 41/Web Development/HTML - Personal Site/images",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Files/Day 42&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "CommandLine",
-      "Python"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;CommandLine&quot;,
+      &quot;Python&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Files\Day 42" />
       <recent name="C:\Users\User\Desktop\Files\Day 41\Web Development\HTML - Personal Site\images" />
       <recent name="C:\Users\User\Desktop\Files\Day 40" />
       <recent name="C:\Users\User\Desktop\Files\Day 39" />
       <recent name="C:\Users\User\Desktop\Files\Day 36" />
-      <recent name="C:\Users\User\Desktop\Files\Day 34\Quizzler App" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\Desktop\Files\Day 15\Coffee Machine" />
@@ -472,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673299867073</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Day 41 - Web Foundation">
+      <created>1673476510828</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1673476510828</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -511,6 +513,7 @@
     <MESSAGE value="Day 37 - API Practice - Http Verbs" />
     <MESSAGE value="Day 38 - API Practice - WORKOUT CHECKER" />
     <MESSAGE value="Day 40 - API Flight Mail" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 40 - API Flight Mail" />
+    <MESSAGE value="Day 41 - Web Foundation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 41 - Web Foundation" />
   </component>
 </project>
