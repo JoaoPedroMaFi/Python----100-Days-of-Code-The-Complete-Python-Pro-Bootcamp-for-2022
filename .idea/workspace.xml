@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4d35b2f-7b7b-4227-8d4c-77408ab78991" name="Changes" comment="Day 42 - Web Foundation">
-      <change afterPath="$PROJECT_DIR$/Day 43/Web Development/Debugging Problem/Debugging Problem 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 43/Web Development/Debugging Problem/Debugging Problem 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 43/Web Development/Debugging Problem/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 43/Web Development/Exercise/CSS - Bacon Fansite/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 43/Web Development/Exercise/CSS - Bacon Fansite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 43/Web Development/HTML - Personal Site/contact_me.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 43/Web Development/HTML - Personal Site/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 43/Web Development/HTML - Personal Site/hobbies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 43/Web Development/HTML - Personal Site/images/imagem_2023-01-11_204711506-modified.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 43/Web Development/HTML - Personal Site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 43/Web Development/HTML - Personal Site/inputs_html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/CSS - My site/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/CSS - My site/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/CSS - My site/images/angela.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/CSS - My site/images/chillies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/CSS - My site/images/cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/CSS - My site/images/computer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/CSS - My site/images/mountain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/CSS - My site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/Web Development/HTML - Personal Site/contact_me.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/Web Development/HTML - Personal Site/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/Web Development/HTML - Personal Site/hobbies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/Web Development/HTML - Personal Site/images/imagem_2023-01-11_204711506-modified.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/Web Development/HTML - Personal Site/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,31 +51,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/User/Desktop/Files/Day 43/Web Development/Exercise",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Other File Types"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Files/Day 44/CSS - My site/images&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Other File Types&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "CommandLine",
-      "Python"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;CommandLine&quot;,
+      &quot;Python&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Files\Day 44\CSS - My site\images" />
+      <recent name="C:\Users\User\Desktop\Files\Day 44\CSS - My site" />
+      <recent name="C:\Users\User\Desktop\Files\Day 44" />
       <recent name="C:\Users\User\Desktop\Files\Day 43\Web Development\Exercise" />
       <recent name="C:\Users\User\Desktop\Files\Day 43\Web Development\Debugging Problem" />
-      <recent name="C:\Users\User\Desktop\Files\Day 43" />
-      <recent name="C:\Users\User\Desktop\Files\Day 42" />
-      <recent name="C:\Users\User\Desktop\Files\Day 41\Web Development\HTML - Personal Site\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\Desktop\Files\Day 15\Coffee Machine" />
