@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4d35b2f-7b7b-4227-8d4c-77408ab78991" name="Changes" comment="Day 42 - Web Foundation">
-      <change afterPath="$PROJECT_DIR$/Day 44/CSS - My site/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 44/CSS - My site/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 44/CSS - My site/images/angela.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 44/CSS - My site/images/chillies.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 44/CSS - My site/images/cloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 44/CSS - My site/images/computer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 44/CSS - My site/images/mountain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 44/CSS - My site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 44/Web Development/HTML - Personal Site/contact_me.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 44/Web Development/HTML - Personal Site/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 44/Web Development/HTML - Personal Site/hobbies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 44/Web Development/HTML - Personal Site/images/imagem_2023-01-11_204711506-modified.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 44/Web Development/HTML - Personal Site/index.html" afterDir="false" />
+    <list default="true" id="f4d35b2f-7b7b-4227-8d4c-77408ab78991" name="Changes" comment="Day 44 - Web Foundation">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/.idea/Day 44.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 45/Starting Code - 100 movies to watch start/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 45/Starting Code - 100 movies to watch start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 45/Starting Code - 100 movies to watch start/top_100_movies.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 45/exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 45/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 45/website.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -58,7 +53,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Files/Day 44/CSS - My site/images&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Files/Day 45&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Other File Types&quot;
   },
@@ -71,11 +66,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Files\Day 45" />
       <recent name="C:\Users\User\Desktop\Files\Day 44\CSS - My site\images" />
       <recent name="C:\Users\User\Desktop\Files\Day 44\CSS - My site" />
       <recent name="C:\Users\User\Desktop\Files\Day 44" />
       <recent name="C:\Users\User\Desktop\Files\Day 43\Web Development\Exercise" />
-      <recent name="C:\Users\User\Desktop\Files\Day 43\Web Development\Debugging Problem" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\Desktop\Files\Day 15\Coffee Machine" />
@@ -89,7 +84,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="data" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Files" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="flight_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Files" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 39" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 45" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 39/flight_search.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\User\Desktop\Files\Day 45\exercise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 35" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 45/Starting Code - 100 movies to watch start" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 35/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 45/Starting Code - 100 movies to watch start/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 34/Quizzler App" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 45" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 34/Quizzler App/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 45/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,19 +256,19 @@
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.data" />
-      <item itemvalue="Python.main (5)" />
-      <item itemvalue="Python.flight_search" />
-      <item itemvalue="Python.main (4)" />
       <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.exercise" />
+      <item itemvalue="Python.main (5)" />
+      <item itemvalue="Python.main (4)" />
       <item itemvalue="Python.main (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (5)" />
-        <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.flight_search" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.exercise" />
+        <item itemvalue="Python.main (5)" />
+        <item itemvalue="Python.main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -489,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673542372929</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Day 44 - Web Foundation">
+      <created>1673988557570</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1673988557570</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -505,7 +507,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Day 15 - Coffee Machine" />
     <MESSAGE value="Day 16 - OOP - Coffee Machine" />
     <MESSAGE value="Day 17 - OOP - Quiz Brain" />
     <MESSAGE value="Day 18 - OOP - The Hirst Painting" />
@@ -530,6 +531,7 @@
     <MESSAGE value="Day 40 - API Flight Mail" />
     <MESSAGE value="Day 41 - Web Foundation" />
     <MESSAGE value="Day 42 - Web Foundation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 42 - Web Foundation" />
+    <MESSAGE value="Day 44 - Web Foundation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 44 - Web Foundation" />
   </component>
 </project>
